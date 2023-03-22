@@ -1,0 +1,11 @@
+### search blog - KAKAO
+GET /blog/search?query=jbb
+host: localhost:8080
+
+### search blog - NAVER
+GET /blog/search?query=jbb&type=NAVER
+host: localhost:8080
+
+### search keyword rank
+GET /blog/search/keyword/rank
+host: localhost:8080
